@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine learning projects**
 
-- 🌱 I’m currently learning **ML, Deep Learning[Introductory phase]**
+- 🌱 I’m currently learning **ML, Deep Learning , NLP**
 
 - 📫 How to reach me **janvityagi30@gmail.com**
 
